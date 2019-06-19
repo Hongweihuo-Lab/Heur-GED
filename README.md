@@ -3,7 +3,7 @@ An efficient heuristic estimation for graph edit distance computaiton
 
 ## What is it?
 Heur-GED is an anytime algorithm for graph edit distance (GED) computation. It employs 
-the expanded branch edit distance as the heuristic estimation in the tree-based algorithm for the 
+the expanded branch edit distance (BED+) as the heuristic estimation in the tree-based algorithm for the 
 GED computation. Adopting the anytime algorithm framework, Heur-GED can fast seek an initial suboptimal solution 
 of GED and then output a sequence of imporved solutions when reaching the maximum running time. 
 
