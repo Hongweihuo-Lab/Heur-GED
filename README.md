@@ -22,6 +22,7 @@ of GED and then output a sequence of improved solutions until reaching the maxim
             iii) cc = 2 is the PRO cost function;
             iv)  cc = 3 is the CMU cost function;
             v)   cc = 4 is the SYN cost function.
+           
            The cost functions above were taken from the repository[1].            
        (4) *LB* is the heuristic estimation used in the tree-based search algorithm, such that 
             
