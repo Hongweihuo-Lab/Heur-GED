@@ -1,0 +1,13 @@
+sampletest150-mod1_image8.bmp
+5 3
+endpoint + 105 355
+corner + 244 109
+corner + 406 356
+circle + 251 249
+endpoint + 472 379
+0 1 1
+line -1.06
+1 2 1
+line .99
+2 4 1
+line .34

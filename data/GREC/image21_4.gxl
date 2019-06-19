@@ -1,0 +1,45 @@
+sampletest150-mod1_image21.bmp
+15 14
+corner + 212 160
+corner + 436 -22
+corner + 187 107
+corner + 338 120
+endpoint + 309 149
+corner + 228 273
+corner + 166 387
+endpoint + 320 359
+corner + 225 259
+corner + 200 371
+corner + 85 530
+corner + 98 -26
+corner + 222 228
+corner + 352 414
+corner + 437 526
+0 12 1
+line 1.42
+0 4 1
+line -.11
+1 11 1
+line .01
+1 14 1
+line 1.57
+2 6 1
+line -1.50
+2 3 1
+line .09
+3 13 1
+line 1.52
+5 9 1
+line -1.29
+5 8 1
+line 1.36
+6 13 1
+line .14
+7 9 1
+line -.10
+8 12 1
+line 1.47
+10 11 1
+line -1.55
+10 14 1
+line -.01

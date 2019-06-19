@@ -1,0 +1,49 @@
+sampletest150-mod3_image11.bmp
+15 16
+endpoint + 471 255
+endpoint + 193 300
+intersection + 162 270
+intersection + 287 258
+intersection + 358 248
+endpoint + 287 195
+endpoint + 39 245
+intersection + 165 259
+endpoint + 237 203
+corner + 166 252
+endpoint + 267 304
+intersection + 357 257
+intersection + 282 260
+intersection + 228 265
+intersection + 201 271
+0 4 1
+line .06
+1 14 1
+line -1.30
+2 6 1
+line .20
+2 11 1
+arc 195.46
+2 7 1
+line -1.30
+3 5 1
+line 1.57
+3 12 1
+line -.38
+3 11 1
+line -.01
+4 9 1
+arc 192.06
+4 11 1
+line -1.46
+7 9 1
+line -1.43
+7 14 1
+line .32
+8 13 1
+line -1.43
+10 12 1
+line -1.24
+12 13 1
+line -.09
+13 14 1
+line -.22

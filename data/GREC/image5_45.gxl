@@ -1,0 +1,64 @@
+sampletest150-mod5_image5.bmp
+20 21
+corner + 438 536
+intersection + 270 375
+corner + 206 212
+corner + 283 418
+intersection + 351 190
+corner + 80 532
+corner + 264 299
+corner + 444 0
+corner + 87 -6
+corner + 356 350
+endpoint + 355 110
+intersection + 317 268
+corner + 366 142
+corner + 223 355
+corner + 219 289
+corner + 201 149
+corner + 364 231
+endpoint + 196 405
+intersection + 278 257
+corner + 342 388
+0 5 1
+line .01
+0 7 1
+line -1.56
+1 13 1
+line .40
+1 3 1
+line 1.28
+1 19 1
+line .18
+2 15 1
+line 1.49
+2 18 1
+line .56
+3 17 1
+line .15
+4 15 1
+line .27
+4 16 1
+line 1.26
+4 12 1
+line -1.27
+5 8 1
+line -1.56
+6 14 1
+line .22
+6 18 1
+line -1.25
+7 8 1
+line .02
+9 11 1
+line 1.13
+9 19 1
+line -1.22
+10 12 1
+line 1.24
+11 18 1
+line .27
+11 16 1
+line -.67
+13 14 1
+line 1.51
