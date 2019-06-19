@@ -16,6 +16,7 @@ of GED and then output a sequence of improved solutions until reaching the maxim
        (1) *path* is the position in which the data is located.       
        (2) *profile* is the configure file that contains the compared graph paris.      
        (3) *cc* is the parameter for cost function, such that 
+           
             i)   cc = 0 is the GREC cost function;
             ii)  cc = 1 is the MUTA cost function;
             iii) cc = 2 is the PRO cost function;
@@ -23,6 +24,7 @@ of GED and then output a sequence of improved solutions until reaching the maxim
             v)   cc = 4 is the SYN cost function.
            The cost functions above were taken from the repository[1].            
        (4) *LB* is the heuristic estimation used in the tree-based search algorithm, such that 
+            
             i)   LB = 0 is the label edit distance (LED);
             ii)  LB = 1 is the hausdorff edit distance (HED);
             iii) LB = 2 is the branch edit distance (BED);
