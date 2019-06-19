@@ -1,0 +1,40 @@
+sampletest150-mod2_image2.bmp
+12 13
+corner + 61 453
+corner + 441 411
+corner + 464 408
+intersection + 89 404
+intersection + 460 408
+corner + 428 379
+corner + 71 385
+corner + 455 450
+corner + 455 398
+corner + 75 443
+corner + 437 449
+corner + 422 58
+0 6 1
+line -1.42
+0 9 1
+line -.62
+1 4 1
+line -.16
+1 10 1
+line -1.47
+2 8 1
+line .84
+2 7 1
+line -1.36
+3 6 1
+line .81
+3 9 1
+line -1.23
+3 11 1
+arc 674.53
+4 5 1
+line .74
+4 8 1
+line 1.11
+5 11 1
+line 1.55
+7 10 1
+line .06
