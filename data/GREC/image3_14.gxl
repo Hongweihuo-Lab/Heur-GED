@@ -1,0 +1,13 @@
+sampletest150-mod2_image3.bmp
+5 2
+corner + 123 399
+corner + 419 345
+corner + 130 336
+circle + 270 319
+corner + 421 409
+0 4 2
+arc 378.79
+line .03
+1 2 2
+line .03
+arc 309.08
