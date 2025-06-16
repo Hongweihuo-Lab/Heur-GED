@@ -1,5 +1,5 @@
 # Heur-GED
-An efficient heuristic estimation for graph edit distance computaiton 
+An efficient heuristic for graph edit distance
 
 ## What is it?
 Heur-GED is an anytime algorithm for graph edit distance (GED) computation. It employs 
