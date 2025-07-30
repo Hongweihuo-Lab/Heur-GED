@@ -37,7 +37,7 @@ of GED and then output a sequence of improved solutions until reaching the maxim
 ### paper
 Heur-GED is an implementation of the paper.
 
-X. Chen, Y. Wang, H. Huo, J. S. Vitter. An efficient heuristic for graph edit distance, In Proceedings of the From Strings to Graphs, and Back Again: A Festschrift for Roberto Grossi's 60th Birthday, July 2025 
+X. Chen, Y. Wang, H. Huo, J. S. Vitter. An efficient heuristic for graph edit distance, In Proceedings of the From Strings to Graphs, and Back Again: A Festschrift for Roberto Grossi's 60th Birthday, Workshop on Compressed Indexing and Graphs, 23rd Symposium on Experimental Algorithms,  Alessio Conte, Andrea Marino, Giovanna Rosone, and Jeffrey S. Vitter (editors); Article No.1; pp.1:1–1:18, Venice, Italy, July 2025. 
 ## Reference
 [1]. Z. Abu-Aisheh, R. Raveaux, and J. Y. Ramel. A graph database repository and performance evaluation metrics for graph edit distance. In GbPRP, pages 138–147, 2015.
 
